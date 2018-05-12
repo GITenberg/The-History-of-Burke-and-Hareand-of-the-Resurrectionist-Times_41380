@@ -1,0 +1,33 @@
+_repo: The-History-of-Burke-and-Hareand-of-the-Resurrectionist-Times_41380
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mac Gregor, George
+    aliases:
+    - MacGregor, George
+    - Gregor, George Mac
+    gutenberg_agent_id: '41148'
+    url: http://www.gutenberg.org/2009/agents/41148
+description: ''
+gutenberg_issued: '2012-11-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41380'
+  lccn: '58054765'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Body snatching -- Scotland'
+- !lcsh 'Hare, William, 1792?-1870? -- Trials, litigation, etc.'
+- !lcsh 'Grave robbing -- Scotland'
+- !lcsh 'Burke, William, 1792-1829 -- Trials, litigation, etc.'
+- !lcc 'RA'
+- !lcsh 'Trials (Murder) -- Scotland'
+title: "The History of Burke and Hare, and of the Resurrectionist Times\r\nA Fragment\
+  \ from the Criminal Annals of Scotland"
+url: http://www.gutenberg.org/ebooks/41380
